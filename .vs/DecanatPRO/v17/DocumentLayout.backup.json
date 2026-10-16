@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\DecanatPRO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9137101-B3D0-4BF0-A77B-4090E6B52D01}|..\\WinForm\\WinForm.csproj|c:\\users\\user\\source\\repos\\winform\\addstudentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9137101-B3D0-4BF0-A77B-4090E6B52D01}|..\\WinForm\\WinForm.csproj|c:\\users\\user\\source\\repos\\winform\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9137101-B3D0-4BF0-A77B-4090E6B52D01}|..\\WinForm\\WinForm.csproj|c:\\users\\user\\source\\repos\\winform\\chartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9137101-B3D0-4BF0-A77B-4090E6B52D01}|..\\WinForm\\WinForm.csproj|c:\\users\\user\\source\\repos\\winform\\chartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9137101-B3D0-4BF0-A77B-4090E6B52D01}|..\\WinForm\\WinForm.csproj|c:\\users\\user\\source\\repos\\winform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9137101-B3D0-4BF0-A77B-4090E6B52D01}|..\\WinForm\\WinForm.csproj|c:\\users\\user\\source\\repos\\winform\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Model||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2CE483-A6B9-4608-AA04-F697526CBBC6}|..\\BusinessLogic\\BusinessLogic.csproj|C:\\Users\\user\\source\\repos\\BusinessLogic\\Logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9137101-B3D0-4BF0-A77B-4090E6B52D01}|..\\WinForm\\WinForm.csproj|c:\\users\\user\\source\\repos\\winform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC41DA2-864A-4F9C-A047-3A6DED2548CC}|..\\Model\\Model.csproj|C:\\Users\\user\\source\\repos\\Model\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WinForm||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9137101-B3D0-4BF0-A77B-4090E6B52D01}|..\\WinForm\\WinForm.csproj|c:\\users\\user\\source\\repos\\winform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9137101-B3D0-4BF0-A77B-4090E6B52D01}|..\\WinForm\\WinForm.csproj|c:\\users\\user\\source\\repos\\winform\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Model\\Model.csproj",
+              "RelativeDocumentMoniker": "..\\Model\\Model.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Model\\Model.csproj",
+              "RelativeToolTip": "..\\Model\\Model.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-10T16:42:59.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddStudentForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WinForm\\AddStudentForm.Designer.cs",
+              "RelativeDocumentMoniker": "..\\WinForm\\AddStudentForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WinForm\\AddStudentForm.Designer.cs",
+              "RelativeToolTip": "..\\WinForm\\AddStudentForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T04:18:49.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WinForm",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WinForm\\WinForm.csproj",
+              "RelativeDocumentMoniker": "..\\WinForm\\WinForm.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WinForm\\WinForm.csproj",
+              "RelativeToolTip": "..\\WinForm\\WinForm.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-24T04:04:33.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChartForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WinForm\\ChartForm.cs",
+              "RelativeDocumentMoniker": "..\\WinForm\\ChartForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WinForm\\ChartForm.cs",
+              "RelativeToolTip": "..\\WinForm\\ChartForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T09:26:59.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddStudentForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WinForm\\AddStudentForm.cs",
+              "RelativeDocumentMoniker": "..\\WinForm\\AddStudentForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WinForm\\AddStudentForm.cs",
+              "RelativeToolTip": "..\\WinForm\\AddStudentForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T09:25:16.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "..\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Model\\Student.cs",
+              "RelativeToolTip": "..\\Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T13:37:48.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Logic.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\BusinessLogic\\Logic.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Logic.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\BusinessLogic\\Logic.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Logic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T12:26:52.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WinForm\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "..\\WinForm\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WinForm\\MainForm.Designer.cs",
+              "RelativeToolTip": "..\\WinForm\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T09:52:19.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WinForm\\Program.cs",
+              "RelativeDocumentMoniker": "..\\WinForm\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WinForm\\Program.cs",
+              "RelativeToolTip": "..\\WinForm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T09:28:18.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WinForm\\MainForm.cs",
+              "RelativeDocumentMoniker": "..\\WinForm\\MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WinForm\\MainForm.cs",
+              "RelativeToolTip": "..\\WinForm\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T09:25:25.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChartForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WinForm\\ChartForm.cs",
+              "RelativeDocumentMoniker": "..\\WinForm\\ChartForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WinForm\\ChartForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\WinForm\\ChartForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T09:28:55.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WinForm\\MainForm.cs",
+              "RelativeDocumentMoniker": "..\\WinForm\\MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WinForm\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\WinForm\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T13:41:06.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddStudentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WinForm\\AddStudentForm.cs",
+              "RelativeDocumentMoniker": "..\\WinForm\\AddStudentForm.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WinForm\\AddStudentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\WinForm\\AddStudentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T09:28:40.227Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
